@@ -1,0 +1,29 @@
+{
+  "algorithm": "Ed25519",
+  "policy": {
+    "allowedBuilds": [
+      {
+        "buildId": "1.0.3-stable",
+        "channel": "stable",
+        "exeSha256": "e2e9ca7d24faa7e1362d6b3dd42ab3f8449dffcfed705f20ac8ff721e1fbcddb",
+        "version": "1.0.3"
+      }
+    ],
+    "expiresAt": 1797146622,
+    "issuedAt": 1794468222,
+    "latestVersions": {
+      "beta": null,
+      "stable": "1.0.3"
+    },
+    "message": "KingdomFlow 1.0.3 is required. Open Updates to install the supported release.",
+    "minimumSupportedVersions": {
+      "beta": null,
+      "stable": "1.0.3"
+    },
+    "offlineGraceSeconds": 604800,
+    "product": "KingdomFlow",
+    "revision": 1,
+    "schema": 1
+  },
+  "signature": "SbsS/I1mzfdCi9yn86/0lB8FQjDSC85OlgOiYc2lmbnI2SWcP5enEjdjN58VNTRx3DtlPOk7CiIsTzAS1MpaDw=="
+}
