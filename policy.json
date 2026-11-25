@@ -11,12 +11,12 @@
       {
         "buildId": "1.0.4-stable",
         "channel": "stable",
-        "exeSha256": "a3116d18dbb17c070691d92f093b2daa5f19483612fe2cedd66781f7f8f53af4",
+        "exeSha256": "71f6c8450072512c2406fafc737775335937a9cf112ea1173ba6602dcc73f558",
         "version": "1.0.4"
       }
     ],
-    "expiresAt": 1796134582,
-    "issuedAt": 1794924982,
+    "expiresAt": 1798308183,
+    "issuedAt": 1795629783,
     "latestVersions": {
       "beta": null,
       "stable": "1.0.4"
@@ -28,8 +28,8 @@
     },
     "offlineGraceSeconds": 604800,
     "product": "KingdomFlow",
-    "revision": 3,
+    "revision": 4,
     "schema": 1
   },
-  "signature": "E6KIcydtMZrCMsU5fiSXweBRjk7d3fXjqpmq0jWyuNBnazhKCLvzxQhuseMpd6rviy4JY1MpneHe73SJmenMCg=="
+  "signature": "aQ4YGYpEwyd08ScUedymOmipqFXsnJU+FBva7JI5ckLdQ2tCd6NWLqpOQ7AkU1I8eaMxQr+T/vyeQaMnEvNMBA=="
 }
