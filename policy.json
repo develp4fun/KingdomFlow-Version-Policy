@@ -19,23 +19,29 @@
         "channel": "stable",
         "exeSha256": "7a57c7bdfce4a86a412e5499d0c3649ede68669d4b08410308742c13a6db79a3",
         "version": "1.0.5"
+      },
+      {
+        "buildId": "1.0.6-stable",
+        "channel": "stable",
+        "exeSha256": "ca73ba30306986c6f228cce3f3287845383a0111ac711001a9b3a347315bedcd",
+        "version": "1.0.6"
       }
     ],
-    "expiresAt": 1796922749,
-    "issuedAt": 1795713149,
+    "expiresAt": 1797080802,
+    "issuedAt": 1795871202,
     "latestVersions": {
       "beta": null,
-      "stable": "1.0.5"
+      "stable": "1.0.6"
     },
-    "message": "KingdomFlow 1.0.5 is required. Open Updates to install the supported release.",
+    "message": "KingdomFlow 1.0.6 is required. Open Updates to install the supported release.",
     "minimumSupportedVersions": {
       "beta": null,
       "stable": "1.0.3"
     },
     "offlineGraceSeconds": 604800,
     "product": "KingdomFlow",
-    "revision": 5,
+    "revision": 6,
     "schema": 1
   },
-  "signature": "M/rk0AxOD7iGyodHETOUl9+G+8Hpmrw+37sHY153TZNRwBQm2ngCZxmXTIAqZdyLWa/QjLzkSiMS3Mh0YmcTCA=="
+  "signature": "Qxhp6odHej+BzoXDyc0jjytLd3a7hkAL1wRo6nHoN82qPKW4WLwVDI1Jx6vFO9DBnT/rT+1Wk0AHFhccR7D7Dg=="
 }
